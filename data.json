@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "title": "Barso",
+    "artist": "Ritviz",
+    "time": 257,
+    "src": "/music/Barso.mp3",
+    "imgSrc": "/images/barso.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Euphoria ",
+    "artist": "Travis Scott, Kaash Paige",
+    "time": 202,
+    "src": "/music/Euphoria__feat__Travis_Scott___Kaash_Paige_.mp3",
+    "imgSrc": "/images/euphoria.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Falling ",
+    "artist": "Trevor Daniel",
+    "time": 143,
+    "src": "/music/Falling.mp3",
+    "imgSrc": "/images/falling.png"
+  },
+  {
+    "id": 4,
+    "title": "Jeet ",
+    "artist": "Ritviz",
+    "time": 189.415,
+    "src": "/music/Jeet.mp3",
+    "imgSrc": "/images/jeet.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "Khamoshi ",
+    "artist": "Ritviz",
+    "time": 169.204,
+    "src": "/music/Khamoshi - Ritviz, Karan Kanchan.m4a",
+    "imgSrc": "/images/khamoshi.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Let Me Down Slowly ",
+    "artist": "Alec Benjamin",
+    "time": 230.19102,
+    "src": "/music/Let Me Down Slowly - Alec Benjamin.m4a",
+    "imgSrc": "/images/letmedown.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mood Remix ",
+    "artist": "Justin Bieber, J Balvin, Iann dior",
+    "time": 231.444898,
+    "src": "/music/Mood__Remix__feat__Justin_Bieber__J_Balvin___iann_dior.mp3",
+    "imgSrc": "/images/mood.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "Sidewalks ",
+    "artist": "The Weeknd",
+    "time": 230.556735,
+    "src": "/music/Sidewalks.mp3",
+    "imgSrc": "/images/sidewalks.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "Starboy ",
+    "artist": "The Weeknd",
+    "time": 153.234286,
+    "src": "/music/Starboy.mp3",
+    "imgSrc": "/images/starboy.png"
+  },
+  {
+    "id": 10,
+    "title": "Tragic ",
+    "artist": "Youngboy",
+    "time": 210.99102,
+    "src": "/music/TRAGIC__feat__Youngboy_Never_Broke_Again___Internet_Money_.mp3",
+    "imgSrc": "/images/tragic.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Stereo Hearts  ",
+    "artist": "Gym Class Heroes feat Adam Levine",
+    "time": 218.117,
+    "src": "/music/Gym Class Heroes - Stereo Hearts feat Adam Levine.mp3",
+    "imgSrc": "/images/stereoHeart.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Hips Don't Lie  ",
+    "artist": "Shakira",
+    "time": 175.621224,
+    "src": "/music/Hips Don't Lie - Shakira.m4a",
+    "imgSrc": "/images/Shakira.png"
+  },
+  {
+    "id": 13,
+    "title": "Control  ",
+    "artist": "Nzau",
+    "time": 234.432,
+    "src": "/music/Nzau - Control.mp3",
+    "imgSrc": "/images/control.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Often Kygo Remix  ",
+    "artist": "The Weeknd",
+    "time": 210.12898,
+    "src": "/music/The Weeknd - Often Kygo Remix.mp3",
+    "imgSrc": "/images/often.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Stay",
+    "artist": "ZEDD",
+    "time": 169.204,
+    "src": "/music/ZEDD - Stay.mp3",
+    "imgSrc": "/images/stay.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Hope  ",
+    "artist": "XXXTENTACION",
+    "time": 110.915918,
+    "src": "/music/XXXTENTACION - Hope.mp3",
+    "imgSrc": "/images/hope.jpg"
+  },
+  {
+    "id": 17,
+    "title": "After Hours  ",
+    "artist": "Weeknd",
+    "time": 110.915918,
+    "src": "/music/After_Hours.mp3",
+    "imgSrc": "/images/afterHours.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Pray For Me  ",
+    "artist": "The Weeknd ft.Kendrick Lamar",
+    "time": 110.915918,
+    "src": "/music/Pray_For_Me__with_Kendrick_Lamar_.mp3",
+    "imgSrc": "/images/prayFor.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Morning  ",
+    "artist": "The Weeknd",
+    "time": 230.19102,
+    "src": "/music/The_Morning.mp3",
+    "imgSrc": "/images/morning.jpg"
+  },
+  {
+    "id": 20,
+    "title": " Scared To Live ",
+    "artist": "The Weeknd",
+    "time": 110.915918,
+    "src": "/music/Scared_To_Live.mp3",
+    "imgSrc": "/images/scared.jpg"
+  },
+  {
+    "id": 21,
+    "title": "High For This  ",
+    "artist": "The Weeknd",
+    "time": 110.915918,
+    "src": "/music/High_For_This.mp3",
+    "imgSrc": "/images/high.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Blinding Lights  ",
+    "artist": "The Weeknd",
+    "time": 110.915918,
+    "src": "/music/Blinding_Lights.mp3",
+    "imgSrc": "/images/blinding.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Reminder  ",
+    "artist": "The Weeknd",
+    "time": 110.915918,
+    "src": "/music/Reminder.mp3",
+    "imgSrc": "/images/starboy.jpg"
+  }
+]

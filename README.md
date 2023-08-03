@@ -1,5 +1,5 @@
 <h1>SavvanMusic</h1>
-<hr><p>This clone is an online platform for listening and streaming music.</p><h2>Technologies Used</h2>
+<hr><p>This is an online platform for listening and streaming music.</p><h2>Technologies Used</h2>
 <hr>
 <ul>
 <li>NextJS</li>
